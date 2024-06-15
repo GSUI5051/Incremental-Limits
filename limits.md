@@ -11,6 +11,7 @@
 | Towers of Googology           | 10^^10^10^1000 - Fe1e1,000   | Tetrational:Exponential^2 | ducdat0507      | https://ducdat0507.github.io/towers/                                  |
 | The Prestreestuck             | 10^^1.8e308 - F1.8e308       | Tetrational:Exponential   | ducdat0507      | https://ducdat0507.github.io/prestreestuck/                           |
 | Incremental Unlimited 2       | 10^^10^308 - F1e308          | Tetrational:Exponential   | Number Engineer | https://bit.ly/incremental-Unlimited-2                                |
+| Pylon of the Mass             | 10^^10^160 - F1e160          | Tetrational:Exponential   | MrRedShark77    | https://mrredshark77.github.io/Pylon-of-the-Mass/                     |
 | Plague Tree                   | 10^^10^41 - F1e41            | Tetrational:Exponential   | Vorona          | https://c0v1d-9119361.github.io/The-Plague-Tree/                      |
 | The Unscaled Incremental      | 10^^10^15 - F1e15            | Tetrational:polynomial    | SuperSpruce     | https://superspruce.github.io/TheUnscaledIncremental/                 |
 | Tetrational Madness           | 10^^200000 - F200,000        | >=Tetrational             | Patcail         | https://scratch.mit.edu/projects/341525196/                           |
@@ -26,6 +27,7 @@
 | Incremental Adventures        | 10^10^450 - e1e450           | Exponential^2             | Gniller         | https://www.kongregate.com/games/Gniller/incremental-adventures       |
 | Infinite Layers               | 10^10^308 - e1e308           | Exponential^2             | dan-simon       | https://dan-simon.github.io/misc/b2/                                  |
 | Multiplying Incrementals      | 10^10^308 - e1e308           | Exponential^2             | JohnathanTBG    | https://scratch.mit.edu/projects/325680353/                           |
+| Shark Incremental             | 10^10^50 - e1e77             | Exponential^2             | MrRedShark77    | https://mrredshark77.github.io/shark-incremental/                     |
 | Synergism                     | 10^10^50 - e1e50             | >=Exponential             | Platonic        | https://pseudo-corp.github.io/SynergismOfficial/                      |
 | NG+++                         | 10^10^18 - e1e18             | >=Exponential             | Aarex           | https://raw.githack.com/aarextiaokhiao/IvarK.github.io/master/        |
 | Calculator Evolution          | 10^10^16 - e1e16             | >=Exponential             | Spotky1004      | https://spotky1004.com/Calculator-Evolution/                          |
